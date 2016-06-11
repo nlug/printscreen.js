@@ -37,6 +37,16 @@ printscreen('http://google.com', {
   format: 'png',
 
   /*
+   * Optional: Define directory where output file will be saved
+   */
+  dir: '.',
+
+  /*
+   * Optional: Define the name of output file
+   */
+  fileName: 'output',
+
+  /*
    * Optional: Define the quality of the printscreen taken (0-100)
    */
   quality: 75,
