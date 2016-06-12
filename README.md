@@ -89,7 +89,8 @@ Contributions welcome; Please submit all pull requests against the master branch
 
 ## Author
 
-Ruben Stolk <ruben.stolk@changer.nl> http://github.com/rubenstolk
+Minh Thanh <nlug27@gmail.com>
+*base on* Ruben Stolk <ruben.stolk@changer.nl> http://github.com/rubenstolk
 
 ## License
 
