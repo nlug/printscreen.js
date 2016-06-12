@@ -9,12 +9,12 @@ Easier website screenshots in Node.js
 
 ## Install
 
-`npm install --save-dev printscreen`
+`npm install --save-dev mt-printscreen`
 
 ## Usage
 
 ```
-const printscreen = require('printscreen');
+const printscreen = require('mt-printscreen');
 
 printscreen('http://google.com', {
 
